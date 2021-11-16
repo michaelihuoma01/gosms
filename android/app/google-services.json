@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396441688962",
+    "firebase_url": "https://gosms-aaf9e.firebaseio.com",
+    "project_id": "gosms-aaf9e",
+    "storage_bucket": "gosms-aaf9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396441688962:android:c6c428972354f0de7c0d9b",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396441688962-lo4tj70sopneukuuommdfopcird65rbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4SlToUAkaxoGKX7qYSuY5sOxrvJc9sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396441688962-lo4tj70sopneukuuommdfopcird65rbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
